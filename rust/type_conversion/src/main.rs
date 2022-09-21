@@ -9,5 +9,10 @@ fn main() {
         println!("x does not equal y.");
     }
 
-    let _z: u32 = (4_294_967_296_u64).try_into().expect("Conversion error");
+    //let _z: u32 = (4_294_967_296_u64).try_into().expect("Conversion error");
+    let z: Result<u32, <u32 as TryFrom<u64>>::Error> = (4_294_967_296_u64).try_into();
+    match z {
+        Ok(x) => println!("{}", x),
+        Err(e) => println!("Error with try_into conversion which was expected: {}", e)
+    }
 }
