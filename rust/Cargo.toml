@@ -1,0 +1,11 @@
+[workspace]
+
+members = [
+    "non_stdin",
+    "type_conversion",
+    "three_and_a_bit",
+    "byte_sized",
+    "byte_sized_wrap",
+    "string_length",
+    "reboot_universe"
+]
