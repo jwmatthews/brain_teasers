@@ -7,5 +7,7 @@ members = [
     "byte_sized",
     "byte_sized_wrap",
     "string_length",
-    "reboot_universe"
+    "reboot_universe",
+    "there_and_back",
+    "zero_to_ten"
 ]
