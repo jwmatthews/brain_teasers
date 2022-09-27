@@ -9,5 +9,6 @@ members = [
     "string_length",
     "reboot_universe",
     "there_and_back",
-    "zero_to_ten"
+    "zero_to_ten",
+    "x_marks_spot"
 ]
