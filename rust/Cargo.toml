@@ -10,5 +10,6 @@ members = [
     "reboot_universe",
     "there_and_back",
     "zero_to_ten",
-    "x_marks_spot"
+    "x_marks_spot",
+    "boxes"
 ]
