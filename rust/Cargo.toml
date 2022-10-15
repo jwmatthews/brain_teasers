@@ -12,5 +12,6 @@ members = [
     "zero_to_ten",
     "x_marks_spot",
     "boxes",
-    "amnesia"
+    "amnesia",
+    "reverse_polarity"
 ]
