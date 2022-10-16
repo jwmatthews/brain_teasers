@@ -13,5 +13,6 @@ members = [
     "x_marks_spot",
     "boxes",
     "amnesia",
-    "reverse_polarity"
+    "reverse_polarity",
+    "structure_sizing"
 ]
