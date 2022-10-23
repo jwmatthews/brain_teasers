@@ -14,5 +14,6 @@ members = [
     "boxes",
     "amnesia",
     "reverse_polarity",
-    "structure_sizing"
+    "structure_sizing",
+    "linked_list"
 ]
