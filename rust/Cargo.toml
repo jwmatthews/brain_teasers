@@ -15,5 +15,6 @@ members = [
     "amnesia",
     "reverse_polarity",
     "structure_sizing",
-    "linked_list"
+    "linked_list",
+    "double_or_nothing"
 ]
